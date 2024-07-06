@@ -1,0 +1,21 @@
+.container {
+    margin: 20px;
+	font-family: sans-serif;
+	
+}
+.btn{
+    background-color: #007BFF;
+}
+.custom-select {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+}
+
+.custom-select:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px #007BFF;
+}
